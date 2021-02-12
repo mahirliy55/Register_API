@@ -1,0 +1,15 @@
+#card{
+    display: flex;
+    justify-content: space-around;
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    margin: 10vh auto;
+}
+form input{
+    margin: 10px;
+    padding: 1vh;
+}
